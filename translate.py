@@ -1,4 +1,3 @@
-
 """
  Translator App with a GUI
  
